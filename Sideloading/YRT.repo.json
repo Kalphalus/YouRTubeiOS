@@ -19,7 +19,7 @@
       "versionDescription": "The file doesn’t exist yet, this is just testing the repo display"
     },
         {
-      "beta": false,
+      "beta": true,
       "bundleIdentifier": "kalphal.us.yourtube.beta",
       "developerName": "Kalphalus",
       "downloadURL": "https://github.com/Kalphalus/YouRTube/releases/latest/download/YouRTubeBeta.ipa",

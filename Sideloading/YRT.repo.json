@@ -2,8 +2,8 @@
   "name": "YouRTube",
   "subtitle": "Easily download the latest YouRTube through Altstore",
   "description": "The official source to install YouRTube",
-  "iconURL": "https://example.com/source_icon.png",
-  "headerURL": "https://example.com/source_header.png",
+  "iconURL": "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png",
+  "headerURL": "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png",
   "website": "https://github.com/Kalphalus/YouRTube",
   "patreonURL": "https://patreon.com/example"
   "tintColor": "#D32D1F",
@@ -21,13 +21,11 @@
         "subtitle": "Easily download the latest YouRTube through Altstore",
 
         "localizedDescription": "Temp",
-        "iconURL": "https://example.com/myapp_icon.png",
+        "iconURL": "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png",
         "tintColor": "#EC3321",
         "category": "entertainment",
         "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
+            "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png"
         ],
         "versions": [
   {
@@ -35,7 +33,7 @@
     "buildVersion": "1",
     "date": "2024-11-06",
     "localizedDescription": "Example Releaee",
-    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "downloadURL": "https://github.com/Kalphalus/YouRTube/releases/latest/download/YouRTube.ipa",
     "size": 79821,
     "minOSVersion": "1.0"
   }
@@ -49,13 +47,11 @@
         "developerName": "Kalphalus",
         "subtitle": "The Ultimate YouTube Frontend",
         "localizedDescription": "Temp",
-        "iconURL": "https://example.com/myapp_icon.png",
+        "iconURL": "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png",
         "tintColor": "#972817",
         "category": "entertainment",
         "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
+            "https://github.com/Kalphalus/YouRTubeiOS/blob/73ba1eff723a9be1f5d36ed1d63474d30111178c/Sideloading/Repo/Logo.png"
         ],
         "versions": [
 {
@@ -63,7 +59,7 @@
     "buildVersion": "1",
     "date": "2024-11-06",
     "localizedDescription": "Example Releaee",
-    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "downloadURL": "https://github.com/Kalphalus/YouRTube/releases/latest/download/YouRTubeBeta.ipa",
     "size": 79821,
     "minOSVersion": "1.0"
   }
@@ -72,5 +68,5 @@
         "patreon": {},
     }
 ],
-  "news": [],
+  "news": []
 }

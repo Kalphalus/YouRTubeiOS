@@ -49,7 +49,6 @@
  "subtitle": "The Ultimate YouTube Client",
   "iconURL": "https://github.com/Kalphalus/YouRTubeiOS/blob/eba1559fddfb24868986add73e30762d032b191d/Sideloading/Repo/Logo.png?raw=true",
   "website": "https://github.com/Kalphalus/YouRTube",
-  "patreonURL": "https://patreon.com/Kalphalus",
   "featuredApps": [
     "kalphal.us.yourtube"
   ],
@@ -65,5 +64,6 @@
       "title": "THE REPO FINALLY WORKS"
     }
   ],
-  "userInfo": {}
+  "userInfo": {},
+  "patreonURL": "https://patreon.com/Kalphalus"
 }

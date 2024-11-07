@@ -1,0 +1,76 @@
+{
+  "name": "YouRTube",
+  "subtitle": "Easily download the latest YouRTube through Altstore",
+  "description": "The official source to install YouRTube",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://github.com/Kalphalus/YouRTube",
+  "patreonURL": "https://patreon.com/example"
+  "tintColor": "#D32D1F",
+  "featuredApps": [
+    "kalphal.us.yourtube",
+    "kalphal.us.yourtubebeta"
+  ],
+  "apps": [
+
+    {
+        "name": "YouRTube",
+        "bundleIdentifier": "kalphal.us.yourtube",
+        "marketplaceID": "00000001",
+        "developerName": "Kalphalus",
+        "subtitle": "Easily download the latest YouRTube through Altstore",
+
+        "localizedDescription": "Temp",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#EC3321",
+        "category": "entertainment",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "1",
+    "date": "2024-11-06",
+    "localizedDescription": "Example Releaee",
+    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "size": 79821,
+    "minOSVersion": "1.0"
+  }
+],
+        "appPermissions": {},
+    },
+    {
+        "name": "YouRTube (Beta)",
+        "bundleIdentifier": "kalphal.us.yourtubebeta",
+        "marketplaceID": "00000002",
+        "developerName": "Kalphalus",
+        "subtitle": "The Ultimate YouTube Frontend",
+        "localizedDescription": "Temp",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#972817",
+        "category": "entertainment",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [
+{
+    "version": "1.0",
+    "buildVersion": "1",
+    "date": "2024-11-06",
+    "localizedDescription": "Example Releaee",
+    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "size": 79821,
+    "minOSVersion": "1.0"
+  }
+],
+        "appPermissions": {},
+        "patreon": {},
+    }
+],
+  "news": [],
+}
